@@ -5,7 +5,7 @@ A modern, scalable single-page application (SPA) built with React and Tailwind C
 ---
 
 ## 🚀 Live Demo
-[👉 View the Live Demo](https://your-dashboard-app.vercel.app)
+[👉 View the Live Demo](http://localhost:5173/)
 
 ---
 
@@ -35,16 +35,15 @@ A modern, scalable single-page application (SPA) built with React and Tailwind C
 ## 📸 Screenshots
 
 ### Login Page  
-![Login Page](./screenshots/login.png)
+![Login Page](./Screenshot1.png)
 
 ### Dashboard (Contracts List + Filters)  
-![Dashboard Page](./screenshots/dashboard.png)
+![Dashboard Page](Screenshot2.png)
 
 ### Upload Files Modal  
-![Upload Modal](./screenshots/upload-modal.png)
+![Upload Modal](./Screenshot3.png)
 
-### Contract Detail Page (Clauses + Insights + Evidence)  
-![Contract Detail](./screenshots/contract-detail.png)
+
 
 ---
 
